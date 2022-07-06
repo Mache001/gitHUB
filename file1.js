@@ -1,4 +1,5 @@
 let firstName ="Emmanuel"
 let lastName ="Mache"
- console.log(firstName + " " + lastName)
+let age = 28
+ console.log(firstName + " " + lastName +","+ age)
 
